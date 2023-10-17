@@ -7,7 +7,6 @@
 ### *4) Data Visualization*
 ### *5) Employing Machine Learning Algorithms* 
 #
-#
 ## *The purpose of these projects were to-*
 ### *a) Take a Problem Statment*
 ### *b) Understand the Requirements*
